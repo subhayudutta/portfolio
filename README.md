@@ -12,7 +12,7 @@ A personal portfolio website showcasing projects, skills, and contact informatio
 
 ## Demo
 
-Check out the live demo: [Drum Game App](http://portfolio-subhayudutta.vercel.app/)
+Check out the live demo: [Portfolio Website](http://portfolio-subhayudutta.vercel.app/)
 
 ## Installation
 
